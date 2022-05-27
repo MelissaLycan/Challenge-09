@@ -14,7 +14,7 @@ I was tasked with completing a command line application that takes in responses 
 
 ## Usage
 
-- You enter responses to the prompted questions in the commandline. Once completed a New README file will appear in the generated_README directory. [x](./assets/Screen-Recording.mp4)
+- You enter responses to the prompted questions in the commandline. Once completed a New README file will appear in the generated_README directory. [x](./Screen-Recording.mp4)
 
 ## Contributions
 
